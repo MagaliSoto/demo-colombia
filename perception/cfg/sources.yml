@@ -1,0 +1,14 @@
+#
+# Author: GENTILE, Francisco
+#
+
+# This is a Sequence of Mappings. For more information see: https://yaml.org/spec/1.2.2/
+
+# Document begins
+---
+- uri: rtsp://admin:2Mini001.@192.168.0.204
+  camera_id: "1"
+  pad_index: 0
+  description: "CAMERA 1"
+
+...

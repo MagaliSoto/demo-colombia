@@ -1,0 +1,14 @@
+services:
+  backend-colombia:
+    build: .
+    container_name: backend-colombia
+    networks:
+      - demo-colombia-network
+    restart: always
+    volumes:
+      - .:/app
+    command: python3 main.py
+
+networks:
+  demo-colombia-network:
+    external: true

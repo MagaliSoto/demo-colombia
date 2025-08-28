@@ -1,0 +1,6 @@
+setuptools>=58.1.0
+wheel>=0.41.3
+redis>=4.2.2
+paho-mqtt>=2.1.0
+twilio>=9.6.5
+python-dotenv>=0.19.2

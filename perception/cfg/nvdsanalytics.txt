@@ -1,0 +1,14 @@
+[property]
+enable=1
+gpu-id=0
+config-width=1280
+config-height=720
+osd-mode=2
+display-font-size=12
+
+[roi-filtering-stream-0]
+enable=1
+inverse-roi=0
+class-id=-1
+roi-ALERTA=450;450;450;719;1279;719;1279;450
+
