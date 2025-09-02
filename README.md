@@ -1,7 +1,7 @@
 # demo-colombia
 ## Clonar Repo:
 ```bash
-git clone --recurse-submodules git@github.com:g2fdev/demo-colombia.git
+git clone git@github.com:MagaliSoto/demo-colombia.git
 ```
 
 ## Levantar deepstream:
