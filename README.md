@@ -1,6 +1,4 @@
 # demo-colombia
-colombia Demo
-
 ## Clonar Repo:
 ```bash
 git clone --recurse-submodules git@github.com:g2fdev/demo-colombia.git
