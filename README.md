@@ -18,4 +18,10 @@ git clone --recurse-submodules git@github.com:g2fdev/demo-colombia.git
 docker compose up -d
 ```
 
+## Modificaciones 
 
+Modificar rtsp
+/perception/cfg/sources.yml
+
+Modificar roi
+/perception/cfg/nvdsanalytics.txt
