@@ -1,15 +1,21 @@
 # demo-colombia
 colombia Demo
 
-## Clonning the repo:
+## Clonar Repo:
 ```bash
 git clone --recurse-submodules git@github.com:g2fdev/demo-colombia.git
 ```
 
-## Running:
+## Levantar deepstream:
 
 1. `xhost +`
 
 2. `docker compose --profile deepstream up -d --build --force-recreate`
+
+
+## Levantar backend
+```bash
+docker compose up -d
+```
 
 
